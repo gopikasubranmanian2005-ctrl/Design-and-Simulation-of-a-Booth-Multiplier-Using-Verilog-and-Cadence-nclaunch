@@ -165,12 +165,13 @@ endmodule
 
 ## Nclaunch Work Library Window
 
-![WhatsApp Image 2025-11-17 at 15 51 02_2ef2fe64](https://github.com/user-attachments/assets/f174e69a-8982-4352-a693-8d64fb363fc0)
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/ef150414-46f2-4eb1-b6d6-c81055241694" />
 
 
 ## Simulation Results
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/18a9d5c8-e5b9-4dcb-939e-83bca236763d" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/9d58693e-4725-4ac7-95e8-d12dd0b8995c" />
+
 
 
 ## Results
